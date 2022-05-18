@@ -1,0 +1,1047 @@
+{
+    "Entries" : [
+      {
+        "RelativePath" : "Test.exe",
+        "Size" : 653824,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "FwltH35GjgYi1ke5Qv8ZK8jJSbg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "UnityCrashHandler64.exe",
+        "Size" : 1125000,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "FflXP4N5cciawxTF2uCEiTgoBeU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "UnityPlayer.dll",
+        "Size" : 28828808,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "LZP/hLZ/y2RqlifumKgcEme1Cq0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/app.info",
+        "Size" : 19,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "aXYMhKU3jd4ocQsFDZFkzrxuNlA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/boot.config",
+        "Size" : 49,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "o8TlrqjHcbbjiokFo6xeBb9WQDo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/globalgamemanagers",
+        "Size" : 152160,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "47PRv8oMQmb0uxRdF0mMc8JWEC8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/globalgamemanagers.assets",
+        "Size" : 419768,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "EQpnjSAg6MrsG9S12apZg/dLrAs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/level0",
+        "Size" : 20008,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "jJm0dBqZVLyzU/6pwZxtvKcwVoQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/level0.resS",
+        "Size" : 131232,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "GQdViZ/ziNgNyy3NVXHYLSo+I1w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/level1",
+        "Size" : 6840,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "UJtqDTdwG0wcLCuxslcK/CCOtfE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/level1.resS",
+        "Size" : 131232,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "GQdViZ/ziNgNyy3NVXHYLSo+I1w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/resources.assets",
+        "Size" : 472880,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "rLD13LU25qespgBGQ/lniZixGpU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/resources.assets.resS",
+        "Size" : 14833864,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "RGAcrNdi1lpNO706rbfFxyOMm2M",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/RuntimeInitializeOnLoads.json",
+        "Size" : 1332,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "WEnyoaopaX1rTjsq4WvLYaknHI0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/ScriptingAssemblies.json",
+        "Size" : 3122,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "iXlzN2cp2v+fqQJQQIBotykUg5E",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/sharedassets0.assets",
+        "Size" : 17460,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "hRT/wl5NQlrYow5hty+h1s3oofc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/sharedassets0.assets.resS",
+        "Size" : 218560,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "udaBKpMz/KcaDp+k99JboNPUgvE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/sharedassets1.assets",
+        "Size" : 4265,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "0vbqPJNtCAfV8KlNjXDgQufYkkA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+        "Size" : 7681160,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "UYoeNVKWuIKWRLTRbCJTfHzGTIw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+        "Size" : 609416,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "cG4LUT4ejZd+iKwJwfeRuTYHYdI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Assembly-CSharp.dll",
+        "Size" : 1015808,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "L8WCrhDtjVRKQSogLVRy6Xeox5w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Cinemachine.dll",
+        "Size" : 235008,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "+B9l0r+8uJCEFLX6/pAFavSZn9M",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/clipper_library.dll",
+        "Size" : 55296,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "PUz5u4vXb8eiVPkc5Z1eVS/9Iw0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/ConditionalExpression.dll",
+        "Size" : 26624,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "f5qVqxrOosYB1b37FXVHByn26ls",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/ICSharpCode.SharpZipLib.dll",
+        "Size" : 204800,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "UdAwQQyI8kf6401IDlpyj9OYTdc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/MHLab.Patch.Core.Admin.dll",
+        "Size" : 25600,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "0+mO09DXrpB9L1A753lTEqT9qRI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/MHLab.Patch.Core.Client.dll",
+        "Size" : 55808,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "OEOzkChu1UCcAHiSVgUmDD9lUBE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/MHLab.Patch.Core.dll",
+        "Size" : 70656,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "O3G0C958DLdxBC5Tp0Iwvn4IvFI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Mono.Security.dll",
+        "Size" : 241152,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "Kn6gYKHLUTDhraYxiKtpBeaMrBY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/mscorlib.dll",
+        "Size" : 4630528,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "0MEmTcNdID6FEYUMG2ahwZTvXYE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/NavMeshComponents.dll",
+        "Size" : 16384,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "lxD4i4JkXaYk+hWini69876UGg0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/netstandard.dll",
+        "Size" : 90112,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "wttuc3aXfFx/F9gWQGynD5XY4e8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/PlayMaker.dll",
+        "Size" : 229888,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "4kDyxm7qStssHTTUfyCAcQ5EXKU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.ComponentModel.Composition.dll",
+        "Size" : 257024,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "iTw5n+IlqgqVDgw/+bOo1cRguG8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Configuration.dll",
+        "Size" : 124928,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "1jgnslKqe0LS7CdZL5Tbc5gBKRI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Core.dll",
+        "Size" : 1113088,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "SuG/MaEy0+Tq8MPL30Tzw8k3GlY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Data.DataSetExtensions.dll",
+        "Size" : 29696,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "GNRyDwL9SfsMoo1CkbEFNkWo0fE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Data.dll",
+        "Size" : 2118656,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "aElThCsQCbp3Szn/uF4JOIRreos",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.dll",
+        "Size" : 2637312,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "BYjR8u6hEFzLEPFSlj69yrx/lJE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Drawing.dll",
+        "Size" : 489984,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "gvan32GcsHLI4CBLyVs2F6oNoMI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.EnterpriseServices.dll",
+        "Size" : 44544,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "W3NVASkPcXiwdWin+iOKd7yza8s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.IO.Compression.dll",
+        "Size" : 114688,
+        "LastWriting" : "2022-05-18 14:50:10Z",
+        "Hash" : "0q5anMuEDRjRoxIzR5jBK0nbTqM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.IO.Compression.FileSystem.dll",
+        "Size" : 18432,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "ZbCDA5Fb8eJzgwIW62tl3ooC59I",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Net.Http.dll",
+        "Size" : 121344,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "fB8IOetCVyz6E/OLnlrcq0Q7xFk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Numerics.dll",
+        "Size" : 119296,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "2qnf8rbDXbRQ/Iko6xXMDSU4Zgo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Runtime.Serialization.dll",
+        "Size" : 934400,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "J1tOM8EO76Rgu8NT+AU3cxwYsbY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Security.dll",
+        "Size" : 314880,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "3g/L9Bl+VFjkmOZGUnSMYHaUfd8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.ServiceModel.Internals.dll",
+        "Size" : 215040,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "cOmccyFBp8UrSnRcK1EHdWyiaOU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Transactions.dll",
+        "Size" : 35328,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "AHLWzeJNZRpLz7TvqU5YP7P09xs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Xml.dll",
+        "Size" : 3160064,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "uAoylTsYJHqNMWxzEaY9ExHCz8U",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/System.Xml.Linq.dll",
+        "Size" : 136704,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "LA/sfwiowzowne7zq5MZeNewtLQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.InputSystem.dll",
+        "Size" : 979456,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "knKun766HgkeiNzwPSgfPKlIrr0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.InputSystem.Recorder.dll",
+        "Size" : 10752,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "gObXPIoLwP4X+EXFrdCGXguHe7g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.Postprocessing.Runtime.dll",
+        "Size" : 148480,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "yCvlbIByPiycpRRHk+aSwztnl9k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.TextMeshPro.dll",
+        "Size" : 370688,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "QNLmfsXqh4cm7/qjSIHRh/rRPhI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.Timeline.dll",
+        "Size" : 115712,
+        "LastWriting" : "2022-05-18 14:50:09Z",
+        "Hash" : "PWkk9SaSQPONeyq3xKQn+xdriPI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "Size" : 86016,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "cAegsbB3SlenkMF+DyfqCn9IQ/k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.VisualScripting.Core.dll",
+        "Size" : 542208,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "RDZAiqS7yTku7MMD0sEquKuiDiQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.VisualScripting.Flow.dll",
+        "Size" : 330240,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "KZjpz7LM+pb3kNpewDMQofuo/bs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/Unity.VisualScripting.State.dll",
+        "Size" : 27136,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "AHEPx0moKwIjN6T2iFuOwSQtfm4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AccessibilityModule.dll",
+        "Size" : 21640,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "iFNC5OZtgrmNfqSDN7elpCgKoLI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AIModule.dll",
+        "Size" : 54408,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "IAHIcYi0v98D1Sq+I25+uKxjL6g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "Size" : 77448,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "jKAxwd+ZPj2PjF0fWh1KCJLTVac",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AnimationModule.dll",
+        "Size" : 159368,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "sYdrBorwL3RDGRKPVdizpsw0QCo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ARModule.dll",
+        "Size" : 19592,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "U7AcZwsARkpWqODQFYK94N6RsIE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "Size" : 31880,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "GWcDK13mmXSOvwC5MXjR7eshPus",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.AudioModule.dll",
+        "Size" : 68232,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "gJ0plPutjl4HlHPduin35XKeQZM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ClothModule.dll",
+        "Size" : 24200,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "GtEJWBzw07evc74numDu6p3X5+g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ClusterInputModule.dll",
+        "Size" : 19592,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "APSnejhA3XeUyQjgVEX8fWCdQb8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+        "Size" : 20616,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "5Nf1qqZwAzTV+YDiaDAfwyPpE0w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.CoreModule.dll",
+        "Size" : 1262216,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "OUifNExw/XZ3TJaFwFD0bLSxGzY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.CrashReportingModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "YFwwi0+xJit9dA0jdEYsdBVRD1g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.DirectorModule.dll",
+        "Size" : 23176,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "Em3vX0ckg28cX6yJZ3grDDZhpVQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.dll",
+        "Size" : 109192,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "0y1MVg3YcAGXPjDS5CRuUhqCHFU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.DSPGraphModule.dll",
+        "Size" : 27272,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "00KLlUzkqo+52gq8v1rAMi7kTbY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.GameCenterModule.dll",
+        "Size" : 38024,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "S67fSoPFbckEdJ7Jtf/WcoW/uiQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.GIModule.dll",
+        "Size" : 18056,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "gU1Wtck5ssWD7WmEEvODPZhlmXU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.GridModule.dll",
+        "Size" : 23176,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "p/9KY8vXaC/+lFvRGK0qkrJvvlE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.HotReloadModule.dll",
+        "Size" : 18056,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "LpU1Lhwl1FeuieCa5rdyACdMb8k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "Size" : 22664,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "3i+/4ZbhRhT6IW/QqgYeeDHvciQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.IMGUIModule.dll",
+        "Size" : 171656,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "643J9yHN+uUoewzaWrJLhmT7icY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "Size" : 35464,
+        "LastWriting" : "2022-05-18 14:50:08Z",
+        "Hash" : "LxoCahUQjph/P2NfksXdFJrWsO4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.InputModule.dll",
+        "Size" : 21640,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "JtM+Gi5ZvB7a4DEd+Be9UEWnMRs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "Size" : 20104,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "GzLv1LK31tD0LvHUEg0VroGix+w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.LocalizationModule.dll",
+        "Size" : 19592,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "9L2RIGmu8R0i/r8uFX5ELm1dU0w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.NVIDIAModule.dll",
+        "Size" : 31880,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "1zke4RZMwjsa3qRrC6M1t5a9xzs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "Size" : 152712,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "VW5eJ6LJwxcidtQyLKrSMPUA5HM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "eJayxCxvICWb2hk9TUdsl2XL/LQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.Physics2DModule.dll",
+        "Size" : 132232,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "9amhBKpDjg3+z4g9LNwC2wCDhec",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.PhysicsModule.dll",
+        "Size" : 113288,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "kxndxtSH8ks/1xjS3sfJl4nQxoA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ProfilerModule.dll",
+        "Size" : 18056,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "3r/IUNi5HKfEJUYMLy7FB8UKULE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "Size" : 18568,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "rSHr2L5HgJ7XuQ+7f43JfWmMyjQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "ES9EBa+6MVdR+rihHqYzcHS8AwI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "Size" : 30344,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "uTI/vMMeuuLFWfxxJ980upsIoK0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+        "Size" : 19592,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "4ssiCtI5hLqTxqLTKqy38MmKhrE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "Size" : 23688,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "U7l4R+yMUEjUpMmazq2RSsw6E2Q",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.StreamingModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "9MfsfdooS3/EsLr7sBpPrYRQeYA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.SubstanceModule.dll",
+        "Size" : 23176,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "moJwr/kaqjAblmne2M0RGG7VJ8g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "Size" : 32904,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "j1tyrtfOUe7KeLVsY/vXpEL2u8k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TerrainModule.dll",
+        "Size" : 96904,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "JxiT+MsP+zxjxt72jr+ir5PdY3w",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "yoj80xAdh3Whdae4FKNTDxEyOU4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "Size" : 49288,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "BWkQo5pqjw8ea/1tmBYHnBMrgQs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "Size" : 192648,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "O6jUU+cFilAnY+XNxzPDxYGN9fU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "Size" : 37000,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "M/Xsusl9tPxhK/iQICU0bIL2IrI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TilemapModule.dll",
+        "Size" : 41096,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "JRtz5DFzUr3f3tbEeRmMg9F2LRA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.TLSModule.dll",
+        "Size" : 24712,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "f2tw97ra+w+N3cPnJJktTjINKBQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UI.dll",
+        "Size" : 244736,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "CI6wv83ZtMn+WGp8o5o5gz4ULuI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UIElementsModule.dll",
+        "Size" : 1196168,
+        "LastWriting" : "2022-05-18 14:50:07Z",
+        "Hash" : "s8XeB32II1aBQg3wPDlQ5jBMHmM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "Size" : 56968,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "vYTElsILhUw+5Vh+V6xHi65tJFY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UIModule.dll",
+        "Size" : 34440,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "ekSBk7nLmDvmU8+YXzlfbSQRoeU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UmbraModule.dll",
+        "Size" : 18056,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "p9K3ILBPxqWVBNURkOeMVJWuQ3Q",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UNETModule.dll",
+        "Size" : 87688,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "Mf92Ov0Rbrkh/gCgYIbH+fsL/T8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "Size" : 42632,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "IUhcdt2BW40G9Q/QYwz0JkAO8Fc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityConnectModule.dll",
+        "Size" : 20104,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "p2IVIEHJY7rVsQPd/fVfa8aOu2I",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityCurlModule.dll",
+        "Size" : 20104,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "2/e4JbyTkM4O3Gn95Cnfkn0NJNg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+        "Size" : 18056,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "/BUvx5hUbkrqazZAR/tc4lsHCcg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "Size" : 21128,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "WzCX63VTi1j0NqkNY9/4+gS0syY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "Size" : 21128,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "NCCDtjQ/PAnfb1aoh6uBo6sRcZw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "Size" : 54920,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "H4NdkCQYtosEP+gdk660nI1aKig",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "Size" : 20104,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "/+QNNASAHv44hVlbWL1ooi8I6+0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "Size" : 29832,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "X9r6tQfEe7XQQh5lDtIpyKc2Vro",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.VehiclesModule.dll",
+        "Size" : 22152,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "/wHTwwKzkFTXUbsRtc8Pknx8uFE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.VFXModule.dll",
+        "Size" : 52360,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "33YPj0He2KXZihg93dEktZL7Ajs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.VideoModule.dll",
+        "Size" : 38536,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "rSUSMjGVq3282BGZxufpVeQbiBI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+        "Size" : 32904,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "05mLDo22KePEYjLYG5XMJbGd3Sg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.VRModule.dll",
+        "Size" : 24712,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "i6XpOK7NYHOD44Gsr54XK+r//hw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.WindModule.dll",
+        "Size" : 19080,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "joYUaIKDml1znDPBNLD+MODscBE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Managed/UnityEngine.XRModule.dll",
+        "Size" : 68232,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "GBdcoUzY83AoDiwVYGFGPVPOsjs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Resources/unity default resources",
+        "Size" : 4843648,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "tT/mxYGbeb4v8YJye/RYq2EA+LY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "Test_Data/Resources/unity_builtin_extra",
+        "Size" : 391768,
+        "LastWriting" : "2022-05-18 14:50:11Z",
+        "Hash" : "HyLXMO6jo59z50w9XdOM5fiCa/8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/browscap.ini",
+        "Size" : 311984,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "LVRU4WHeiltlkQ8nvXDZ0K2PpHY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/config",
+        "Size" : 3578,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "4CpxjY5u+3S9i79woda8ZEBV858",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-05-18 14:50:06Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/machine.config",
+        "Size" : 29066,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "P7zseGrEtugbbS8qsojPZ91nYPQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "3Svi28zTRzZxkwGu6SQp1CWOpaA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/web.config",
+        "Size" : 11635,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "V05LJAFYUtRayA386K88b9Sk8Jo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/machine.config",
+        "Size" : 33598,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "epvKYeavmtcg2h19JBkmN9kDeIY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/web.config",
+        "Size" : 18802,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "dxZI+tx+2aQitLwm442FTQZnQtc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/machine.config",
+        "Size" : 34056,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "OS5a5rPa1ZQYvaiQlS7ieospDpA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/web.config",
+        "Size" : 18811,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "VsTEdQFmS8O81UvlBcw9n30HYfU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+        "Size" : 25817,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "k2Ug1btcAKGYXXpMTw73Y6kDGGI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-05-18 14:50:05Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "version.data",
+        "Size" : 24,
+        "LastWriting" : "2022-05-18 14:50:30Z",
+        "Hash" : "9FqdPckhNfnJaFBj2Rgaiusd2pU",
+        "Attributes" : 32
+      }
+    ]
+  }
